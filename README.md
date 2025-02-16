@@ -12,21 +12,9 @@
 
 ## 主題
 
-* [ISO](#iso)
 * [微調腳本](#微調腳本)
 * [按鍵綁定](#按鍵綁定)
 * [相關筆記](#相關筆記)
-
-
-
-
-## ISO
-
-### Build ISO
-
-| Build ISO |
-| --------- |
-| [lika-live-build-respin-lxqt](https://github.com/samwhelp/lika-live-build-respin-lxqt) |
 
 
 
