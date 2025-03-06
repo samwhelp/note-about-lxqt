@@ -45,6 +45,7 @@
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
 | [Lubuntu 探索筆記](https://samwhelp.github.io/note-about-lubuntu/) | [GitHub](https://github.com/samwhelp/note-about-lubuntu) |
 | [Lubuntu / Lxqt with Kwin / 探索筆記](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/) | [GitHub](https://github.com/samwhelp/note-about-lubuntu-lxqt-with-kwin) |
+| [Debian Lxqt 探索筆記](https://samwhelp.github.io/note-about-debian-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-debian-lxqt) |
 | [Fedora Lxqt 探索筆記](https://samwhelp.github.io/note-about-fedora-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-fedora-lxqt) |
 | [Ultramarine Lxqt 探索筆記](https://samwhelp.github.io/note-about-ultramarine-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-lxqt) |
 
